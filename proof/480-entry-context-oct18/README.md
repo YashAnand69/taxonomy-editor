@@ -1,0 +1,1 @@
+Screenshots use localhost fixture data and the same temporary CommonJS interoperability test-build adjustments before and after. Those adjustments are not contribution source changes. This is frontend integration evidence, not real backend persistence or unmodified-upstream E2E certification. Existing mobile table overflow is outside this feature.
